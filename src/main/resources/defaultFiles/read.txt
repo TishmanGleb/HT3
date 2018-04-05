@@ -1,0 +1,12 @@
+﻿open "https://www.google.by" 2
+checkPageTitle "Google Search Page"
+checkPageContains "The best search engine"     
+checkLinkPresentByHref "https://mail.google.com/mail/?tab=wm"
+checkLinkPresentByName "Gmail"   
+
+
+
+
+
+
+

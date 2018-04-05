@@ -1,0 +1,8 @@
++ [open "https://www.google.by" 2] 4,353
+! [checkPageTitle "Google Search Page"] 0,002
+! [checkPageContains "The best search engine"] 0,018
++ [checkLinkPresentByHref "https://mail.google.com/mail/?tab=wm"] 0,008
++ [checkLinkPresentByName "Gmail"] 0,000
+Total tests: 5
+Passed/Failed: 3/2
+Average time: 0,876

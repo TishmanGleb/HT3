@@ -1,0 +1,2 @@
+read=src\\main\\resources\\defaultFiles\\read.txt
+write=src\\main\\resources\\defaultFiles\\write.txt
